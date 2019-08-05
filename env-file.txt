@@ -1,0 +1,4 @@
+bamfiles=/bams/TCGA-AB-2806.bam
+gtf=/gtf/gencode.v31.annotation.gtf
+outpt=/outpt/psi/
+ncores=8
